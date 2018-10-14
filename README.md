@@ -7,7 +7,7 @@ each class can only be derived from one other class. That class is called a supe
 
 You use the keyword extends to identify the class that your subclass extends. If you don’t declare a superclass, your class implicitly extends the class Object. Object is the root of all inheritance hierarchies; it’s the only class in Java that doesn’t extend another class.
 
-                      Class
+                      Class(Base Class)
              __________|____________
             |                       |
      Derived Class                 Derived class
